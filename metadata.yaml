@@ -1,0 +1,30 @@
+_repo: HP-Lovecraft-an-evaluation_72004
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brennan, Joseph Payne
+    birthdate: 1918
+    deathdate: 1990
+    gutenberg_agent_id: '55935'
+    url: http://www.gutenberg.org/2009/agents/55935
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Payne_Brennan
+description: ''
+gutenberg_issued: '2023-11-01'
+identifiers:
+  gutenberg: '72004'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b4102144
+pgterms:marc905: 20201215015146brennan
+pgterms:marc906: '1955'
+pgterms:marc907: US
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aNew Haven, CT :$bMacabre House, $c1955.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: H.P. Lovecraft, an evaluation
+url: http://www.gutenberg.org/ebooks/72004
