@@ -1,5 +1,8 @@
 _repo: HP-Lovecraft-an-evaluation_72004
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72004-h/images/cover.jpg
 creator:
   author:
     agent_name: Brennan, Joseph Payne
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55935
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Payne_Brennan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72004#HP-Lovecraft-an-evaluation
 gutenberg_issued: '2023-11-01'
 identifiers:
   gutenberg: '72004'
